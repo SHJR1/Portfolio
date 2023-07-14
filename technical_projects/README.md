@@ -1,15 +1,17 @@
-## Project #2
-Give a high-level overview of the project purpose
-- What are the users?
-- What job does it form for them?
-- What inspired you to make it?
-- What features are the most important?
-- Include relevant screenshots
+# Technical Projects 
+A list of some of the projects I worked on during my time with Multiverse 2022-2023.
 
 ## Technologies
-- List all technologies and versions here
-- Include dependencies and versions
-- Note any deployment tools as well
+- Java
+- Vert.x
+- React
+- HTML & CSS
+- MySQL
+- Docker
+- Node.js
+- Express
+- Redux
+
 
 ## Competencies
 ### JF XX.XX

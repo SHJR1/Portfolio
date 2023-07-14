@@ -1,0 +1,15 @@
+[submodule "technical_projects/backend-db-project"]
+	path = technical_projects/backend-db-project
+	url = https://github.com/SHJR1/backend-db-project.git
+[submodule "technical_projects/sheltor-inventory"]
+	path = technical_projects/sheltor-inventory
+	url = https://github.com/jxkobrxyes/sheltor-inventory.git
+[submodule "technical_projects/todo-app"]
+	path = technical_projects/todo-app
+	url = https://github.com/SHJR1/todo-app.git
+[submodule "technical_projects/terminal-portfolio"]
+	path = technical_projects/terminal-portfolio
+	url = https://github.com/SHJR1/terminal-portfolio.git
+[submodule "technical_projects/multiverse-workshop-project-1"]
+	path = technical_projects/multiverse-workshop-project-1
+	url = https://github.com/joannembl/multiverse-workshop-project-1.git

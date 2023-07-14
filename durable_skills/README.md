@@ -1,12 +1,6 @@
-## Project #3
-Give a high-level overview of the project purpose
-- What are the users?
-- What job does it form for them?
-- What inspired you to make it?
-- What features are the most important?
-- Include relevant screenshots
+# Durable Skills Demonstrated at American Express
 
-## Technologies
+## Overview
 - List all technologies and versions here
 - Include dependencies and versions
 - Note any deployment tools as well
